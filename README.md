@@ -5,4 +5,6 @@ A web application that trancribes the content of the recorded audio-visual file 
          -Automatic Content Summary
          -Highlights of the most important phrases and words of the audio uploaded.
          
- Future Goals for the app- To make it Dynamic i.e. the User can upload the URL of the audio and Deployment of the application.
+
+Web application was made using panel and hvplot, while the analysis was performed using python.         
+Future Goals for the app- To make it Dynamic i.e. the User can upload the URL of the audio and Deployment of the application.
